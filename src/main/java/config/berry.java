@@ -9,6 +9,8 @@ package config;
 /**
  *
  * @author Calen
+ * In the world of pokemon, berries have certain healing properties. Different berries heal different status effects
+ *
  */
 public interface berry 
 {
