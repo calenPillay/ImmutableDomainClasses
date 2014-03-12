@@ -4,8 +4,7 @@
  * and open the template in the editor.
  */
 
-import junit.framework.Assert;
-import static org.testng.Assert.*;
+import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
